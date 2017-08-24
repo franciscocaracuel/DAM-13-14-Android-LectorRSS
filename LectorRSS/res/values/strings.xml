@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lector RSS</string>
+    <string name="action_settings">Francisco J. Caracuel</string>
+    <string name="desc_rss">Tio en el banco</string>
+    <string name="no_conectado">No está conectado a Internet</string>
+    <string name="widget_pubdate">Publicado: </string>
+    <string name="ultimo_resfresco">Última actualización: </string>
+    <string name="servicio_inicio">Iniciando servicio RSS </string>
+    <string name="servicio_fin">Deteniendo servicio RSS </string>
+    <string name="sin_widgets">No hay widgets RSS </string>
+
+</resources>
